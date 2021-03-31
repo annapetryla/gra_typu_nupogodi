@@ -1,0 +1,6 @@
+#wolf2{
+    -fx-background-image: url("wolf2.gif");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 90 50;
+    -fx-background-position: center center;
+}
