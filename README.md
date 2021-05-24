@@ -22,13 +22,18 @@ pomoca informacyjna, ale nie moze zachodzic tam zadna znaczaca interakcja uzytko
 z programem.
 
 Program po uruchomieniu powinien wyswietlac menu główne składajace sie z opcji:
+
 • New Game - nowa gra
+
 • High Scores - tabela wyników
+
 • Exit – wyjscie
+
 Po uruchomieniu gry, toczy sie ona według wyzej wymienionych zasad. Nalezy zapewnic
 mozliwosc przerwania gry w dowolnym momencie poprzez wybrany przez Panstwa złozony skrót
-klawiszowy (Ctrl+Shift+Q), który spowoduje powrót do menu głównego. Nawigacja moze sie
-odbywac na poprzez klawisze klawiatury i klikanie na przyciski wskazujace kierunek, utworzone
+klawiszowy (Ctrl+Shift+Q), który spowoduje powrót do menu głównego.
+
+Nawigacja moze sie odbywac na poprzez klawisze klawiatury i klikanie na przyciski wskazujace kierunek, utworzone
 przez Panstwa w oknie gry.
 
 Po zakonczeniu gry, w nowym oknie gracz proszony jest o swoja nazwe pod jaka ma byc
